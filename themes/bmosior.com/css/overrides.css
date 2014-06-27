@@ -1,5 +1,6 @@
-body {
-
+#attribution {
+	color: #ffffff;
+	font-size: 8px;
 }
 
 .splash a {
@@ -11,6 +12,8 @@ body {
 
 .splash-container {
 	height: 95%;
+	background-size: cover;
+	background-image: url('../img/Beach_pano.jpg');
 }
 
 .fa {
