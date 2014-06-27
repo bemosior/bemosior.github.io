@@ -9,7 +9,8 @@ Description: Benjamin Mosior is a Linux SysAdmin in pursuit of that sparkly DevO
     Choose your path:
 </p>
 <p>
-    <a target="_blank" href="Resume-Mosior.pdf" class="pure-button pure-button-primary">Résumé</a>
-    <a target="_blank" href="https://www.linkedin.com/pub/benjamin-mosior/49/352/826/" class="pure-button pure-button-primary">LinkedIn</a>
     <a target="_blank" href="https://github.com/bemosior/" class="pure-button pure-button-primary">GitHub</a>
+    <a target="_blank" href="https://twitter.com/BenjaminMosior" class="pure-button pure-button-primary">Twitter</a>
+    <a target="_blank" href="https://www.linkedin.com/pub/benjamin-mosior/49/352/826/" class="pure-button pure-button-primary">LinkedIn</a>
+	<a target="_blank" href="Resume-Mosior.pdf" class="pure-button pure-button-primary">Résumé</a>
 </p>
