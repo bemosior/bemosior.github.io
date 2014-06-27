@@ -1,3 +1,19 @@
+body {
+
+}
+
 .splash a {
 	text-transform: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 100%;
+}
+
+.splash-container {
+	height: 95%;
+}
+
+.fa {
+	margin-right: 5px;
+	margin-left: -5px;
 }
