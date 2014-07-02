@@ -36,3 +36,12 @@
 		height:90%;
 	}
 }
+
+@media (min-width: 81em) {
+	.pure-button {
+	        padding-top: 0.5em;
+	        padding-right: 2em;
+        	padding-left: 2em;
+	}
+
+}
