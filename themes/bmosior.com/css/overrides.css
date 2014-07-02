@@ -3,6 +3,12 @@
 	font-size: 8px;
 }
 
+.pure-button {
+	padding-top: 0.5em;
+	padding-right: 1em;
+	padding-left: 1.4em;
+}
+
 .splash a {
 	text-transform: none;
 	margin-top: 5px;
@@ -23,4 +29,10 @@
 .fa {
 	margin-right: 5px;
 	margin-left: -5px;
+}
+
+@media (max-width: 35.5em) {
+	.splash {
+		height:90%;
+	}
 }
