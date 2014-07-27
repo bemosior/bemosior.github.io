@@ -239,10 +239,10 @@ a.pure-button-primary {
     /* We can align the menu header to the left, but float the
     menu items to the right. */
     .home-menu {
-        text-align: left;
+        text-align: middle;
     }
         .home-menu ul {
-            float: right;
+            float: none;
         }
 
     /* We increase the height of the splash-container */

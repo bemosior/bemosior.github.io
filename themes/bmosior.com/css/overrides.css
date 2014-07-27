@@ -4,7 +4,7 @@
 }
 
 .content-head {
-	margin-top: 1em;
+	margin-top: 0em;
 	margin-bottom: 2em;
 }
 .content-wrapper a, .content-wrapper a:visited {
@@ -28,6 +28,15 @@
 .splash-head {
 	background-color: rgba(53,73,94,0.8);
 	font-size: 140%;
-	line-height:23px;
+	line-height:26px;
 	text-transform: none;
+}
+
+@media (min-width: 48em) {
+  .home-menu {
+      text-align: middle;
+  }
+      .home-menu ul {
+          float: none;
+      }
 }
