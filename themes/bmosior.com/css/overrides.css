@@ -3,17 +3,20 @@
 	font-size: 10px;
 }
 
-.pure-button {
-	padding-top: 0.5em;
-	padding-right: 1em;
-	padding-left: 1.4em;
+.content-head {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+.content-wrapper a, .content-wrapper a:visited {
+	color: #34495e;
+}
+
+.pure-menu ul a i {
+	font-size: 170%;
 }
 
 .splash a {
 	text-transform: none;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	font-size: 100%;
 }
 
 .splash-container {
@@ -23,25 +26,8 @@
 } 
 
 .splash-head {
-	background-color: rgba(53,73,94,0.3);
-}
-
-.fa {
-	margin-right: 5px;
-	margin-left: -5px;
-}
-
-@media (max-width: 35.5em) {
-	.splash {
-		height:90%;
-	}
-}
-
-@media (min-width: 81em) {
-	.pure-button {
-	        padding-top: 0.5em;
-	        padding-right: 2em;
-        	padding-left: 2em;
-	}
-
+	background-color: rgba(53,73,94,0.8);
+	font-size: 140%;
+	line-height:23px;
+	text-transform: none;
 }

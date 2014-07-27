@@ -2,73 +2,50 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-	
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+  
+  <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
 {% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
+  <meta name="description" content="{{ meta.description }}"> 
 {% endif %}{% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
+  <meta name="robots" content="{{ meta.robots }}">
 {% endif %}
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ theme_url }}/css/pure-min.css">
+  <!--[if lte IE 8]>
+    
+      <link rel="stylesheet" href="https://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+    
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    
+      <link rel="stylesheet" href="{{ theme_url }}/css/grids-responsive-min.css">
+    
+  <!--<![endif]-->
 
-<link rel="stylesheet" href="{{ theme_url }}/css/font-awesome.css">
-
-<link rel="stylesheet" href="{{ theme_url }}/css/pure-min.css">
-
-<!--[if lte IE 8]>
-  
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
-  
-<![endif]-->
-<!--[if gt IE 8]><!-->
-  
-    <link rel="stylesheet" href="{{ theme_url }}/css/grids-responsive-min.css">
-  
-<!--<![endif]-->
- 
-    <!--[if lte IE 8]>
-        <link rel="stylesheet" href="{{ theme_url }}/css/layouts/marketing-old-ie.css">
-    <![endif]-->
-    <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="{{ theme_url }}/css/layouts/marketing.css">
-    <!--<![endif]-->
-
-<link rel="stylesheet" href="{{ theme_url }}/css/overrides.css">
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="css/layouts/marketing-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+      <link rel="stylesheet" href="{{ theme_url }}/css/layouts/marketing.css">
+  <!--<![endif]-->
+  <link rel="stylesheet" href="{{ theme_url }}/css/font-awesome.css">
+  <link rel="stylesheet" href="{{ theme_url }}/css/overrides.css">
 </head>
 <body>
 
 <div class="header">
     <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading" href="">{{ site_title }}</a>
-
         <ul>
-        		<!--
-				{% for page in pages %}
-				<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-				{% endfor %}
-				-->
+          <li><a href="mailto:bemosior+com@gmail.com"><i class="fa fa-envelope"></i></a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/pub/benjamin-mosior/49/352/826/"><i class="fa fa-linkedin-square"></i></a></li>
+          <li><a target="_blank" href="https://github.com/bemosior/"><i class="fa fa-github"></i></a></li>
+          <li><a target="_blank" href="https://twitter.com/BenjaminMosior"><i class="fa fa-twitter"></i></a></li>
         </ul>
-
     </div>
 </div>
 
-<div class="splash-container">
-    <div class="splash">
-    	{{ content }}
-    	<i><a target="_blank" id="attribution" href="http://en.wikipedia.org/wiki/File:Beach_pano.jpg">Background: Fraser Hart</a></i>
-    </div>
-</div>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-51537292-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
+{{ content }}
 
 </body>
 </html>
