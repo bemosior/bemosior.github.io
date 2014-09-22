@@ -6,7 +6,7 @@ Description: Benjamin Mosior is a Linux SysAdmin in pursuit of that sparkly DevO
     <canvas id="canvas">Sorry, canvas isn't supported.</canvas>
     <div class="splash">
       <p class="splash-head">I don't know you, but everything's going to be fine.</p>
-      <p><a onclick="confetti()" class="pure-button pure-button-primary">Distraction</a></p>
+      <p><a onclick="confetti()" class="pure-button pure-button-primary">Cheap Gimmick</a></p>
 
        <p><i><a target="_blank" id="attribution" href="http://en.wikipedia.org/wiki/File:Beach_pano.jpg">Background: Fraser Hart</a></i></p>
     </div>
