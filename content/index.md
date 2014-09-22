@@ -29,7 +29,7 @@ Description: Benjamin Mosior is a Linux SysAdmin in pursuit of that sparkly DevO
 
               <p>Above all, he believes in the organizational phenomenon known as DevOps, where silos are broken down and cross-functional employees work together to build great things. He acknowledges that the tools may be important but emphasizes that the real value is in the culture.</p>
 
-              <p>Benjamin has resigned from his position at Shippensburg University, effective late September, 2014. He plans to take some time to focus his work as an independent consultant but would be available for the right opportunity starting September 29th (remote) and December 1st (relocation) in 2014.</p>
+              <p>Benjamin is not currently interested in employment opportunities.</p>
           </div>
         </div>
     </div>
