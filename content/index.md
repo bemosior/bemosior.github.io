@@ -45,7 +45,7 @@ Description: Benjamin Mosior is a Linux SysAdmin in pursuit of that sparkly DevO
 
             <h2 class="content-head content-head-ribbon">Interests</h2>
 
-            <p>Benjamin takes a keen interest in systems monitoring and making information more readily available to those that need it. In his mind, greater access to knowledge adds value to a business and sets the stage for a data-driven approach to problem-solving. In his free time, Ben hones his professional skills and engages customers as an independent consultant.</p>
+            <p>Benjamin takes a keen interest in systems monitoring and making information more readily available to those that need it. In his mind, greater access to knowledge adds value to a business and sets the stage for a data-driven approach to problem-solving.</p>
 
             <p>To balance out his interests, he often unwinds by composing electronic music and practicing percussion on his Roland drum kit.</p>
 
