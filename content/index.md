@@ -2,11 +2,11 @@
 Title: bmosior.com
 Description: Benjamin Mosior is a Linux SysAdmin in pursuit of that sparkly DevOps.
 */
-
 <div class="splash-container">
+    <canvas id="canvas">Sorry, canvas isn't supported.</canvas>
     <div class="splash">
-      <p class="splash-head">Seeking the right Systems Administration opportunity in a collaborative workplace.</p>
-      <p><a target="_blank" href="/themes/bmosior.com/Resume-Mosior.pdf" class="pure-button pure-button-primary"><i class="fa fa-file"></i> R&eacute;sum&eacute;</a></a></p>
+      <p class="splash-head">I don't know you, but everything's going to be fine.</p>
+      <p><a onclick="confetti()" class="pure-button pure-button-primary">Distraction</a></p>
 
        <p><i><a target="_blank" id="attribution" href="http://en.wikipedia.org/wiki/File:Beach_pano.jpg">Background: Fraser Hart</a></i></p>
     </div>

@@ -3,6 +3,10 @@
 	font-size: 10px;
 }
 
+canvas {
+    position: fixed;
+}
+
 .content-head {
 	margin-top: 0em;
 	margin-bottom: 2em;
