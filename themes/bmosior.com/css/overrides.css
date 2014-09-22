@@ -11,6 +11,11 @@ canvas {
 	margin-top: 0em;
 	margin-bottom: 2em;
 }
+
+.content-wrapper {
+	top: 92%;
+}
+
 .content-wrapper a, .content-wrapper a:visited {
 	color: #34495e;
 }
