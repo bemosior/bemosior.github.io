@@ -11,7 +11,12 @@ body {
 }
 
 .fa {
-    color: white;
+    color: #808590;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.fa-primary {
+    color: #ffffff;
+    margin-bottom: 15px;
 }
