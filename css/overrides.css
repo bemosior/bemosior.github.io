@@ -1,6 +1,17 @@
+body {
+    background-color: #434959;
+    color: white;
+}
+
 .content-inner {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
     text-align: center;
+}
+
+.fa {
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
 }
