@@ -20,3 +20,18 @@ body {
     color: #ffffff;
     margin-bottom: 15px;
 }
+
+.pure-table {
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pure-table thead {
+    background-color: #ffffff;
+    color: #434959;
+}
+
+.pure-table tbody a {
+    color: #ffffff;
+}
