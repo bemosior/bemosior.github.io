@@ -1,0 +1,11 @@
+# Site settings
+title: Benjamin Mosior
+email: bemosior+com@gmail.com
+description: Does the DevOps, or maybe just reads too much.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.bmosior.com" # the base hostname & protocol for your site
+twitter_username: BenjaminMosior
+github_username:  bemosior
+
+# Build settings
+markdown: kramdown
