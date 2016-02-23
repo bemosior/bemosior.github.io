@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-Hello.
+I try to understand systems and diminish the pain inflicted by them. For more information, see my [resume](/resume.html).
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
-
-**Just write thing that matters..**
-
-Enjoy!
+[Email](mailto:bemosior+com@gmail.com) and [Twitter](https://twitter.com/BenjaminMosior) are effective ways to reach me. I provide consulting services through [Unica Labs](http://unicalabs.com).
