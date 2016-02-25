@@ -1,5 +1,13 @@
+{% if page.url != '/resume.html'%}
 <div id="footer">
+	{% if page.url != '/index.html'%}
+    <div class="back">
+		<a href="{{site.baseurl}}/">Back</a>
+	</div>
+	{% endif %}
     <small>
         <i><a href="http://heiswayi.github.io/the-plain.html">The Plain</a></i> theme by Heiswayi Nrird
     </small>
 </div>
+{% endif %}
+
