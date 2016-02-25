@@ -44,6 +44,14 @@ blockquote {
   padding: 5px 30px;
   background: #eee;
 }
+
+.citation {
+  text-align: right;
+  margin-top: -5em;
+  margin-bottom: 5em;
+  font-size: 0.8em;
+}
+
 span[data-note] {
   font-size: 0.8em;
   background: #c1c1c1;
