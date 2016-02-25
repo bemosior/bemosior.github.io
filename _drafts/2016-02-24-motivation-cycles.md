@@ -32,7 +32,7 @@ The problem is that these cycles can vary in severity, length, and frequency, bu
 
 ![Cycles](/assets/posts/images/2016-02-24-motivation-cycles-02.jpg)
 
-Complexity isn't a reason to give up. Rather, [operating within a complex space necessitates deliberate experimentation](https://en.wikipedia.org/wiki/Cynefin_Framework). The key is to amplify good experiment results and dampen poor ones.
+Complexity isn't a reason to give up. Rather, [operating within a complex space necessitates deliberate experimentation](https://en.wikipedia.org/wiki/Cynefin_Framework). The key is to amplify the effects of good experiment results and dampen those of poor ones.
 
 <div class="pagebreak"></div>
 
