@@ -11,20 +11,13 @@ layout: compress
 
 	<body>
 
-		{% include header.html %}
+		<div id="wrapper">
+			{% include header.html %}
 
-		<main>
-			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
-		</main>
+			{% include main.html %}
 
-		{% if page.path contains '_posts' %}
-
-			{% if content contains 'reversefootnote' %}
-				<aside class="note"></aside>
-				<script async src="{{site.baseurl}}/assets/footnotes.js"></script>
-			{% endif %}
-
-		{% endif %}
+			{% include footer.html %}
+		</div>
 
 	</body>
 
