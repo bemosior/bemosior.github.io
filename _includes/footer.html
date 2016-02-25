@@ -1,6 +1,6 @@
-{% if page.url != '/resume.html'%}
+{% if page.url != '/resume.html' and page.url != '/resume'%}
 <div id="footer">
-	{% if page.url != '/index.html' and page.url == '/'%}
+	{% if page.url != '/index.html' and page.url != '/'%}
     <div class="back">
 		<a href="{{site.baseurl}}/">Back</a>
 	</div>
@@ -10,6 +10,3 @@
     </small>
 </div>
 {% endif %}
-
-
-{{page.url}}
