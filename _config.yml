@@ -53,3 +53,8 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      type:         "drafts"
+    values:
+      layout:       "post"
