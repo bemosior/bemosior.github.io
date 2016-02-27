@@ -14,6 +14,8 @@ title: Benjamin Mosior
 
 ### McKesson Pharmacy Systems & Automation (Nov 2014 - Present)
 
+Mapped core business processeses, visualized the flow of work, automated lower-order activity in order to free individuals for higher-order activity, and eliminated wasteful work altogether. Accelerated improvement of disaster recovery capabilities. Fostered cross-functional collaboration in daily practice.
+
 ### Unica Labs (Jul 2014 - Present)
 
 ### Shippensburg University of Pennsylvania (Jan 2010 - Sep 2014)
