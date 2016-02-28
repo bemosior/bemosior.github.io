@@ -1,10 +1,18 @@
 {% if page.url != '/resume.html' and page.url != '/resume'%}
 <div id="footer">
-	{% if page.url != '/index.html' and page.url != '/'%}
+    {% if page.url != '/index.html' and page.url != '/'%}
     <div class="back">
-		<a href="{{site.baseurl}}/">Back</a>
-	</div>
-	{% endif %}
+        <a href="{{site.baseurl}}/">Back</a>
+    </div>
+    <p>
+    Copyright ©
+    <script type="text/javascript">
+        var d = new Date(); 
+        document.write(d.getFullYear());
+    </script>
+    Benjamin Mosior
+    </p>
+    {% endif %}
     <small>
         <i><a href="http://heiswayi.github.io/the-plain.html">The Plain</a></i> theme by Heiswayi Nrird
     </small>
