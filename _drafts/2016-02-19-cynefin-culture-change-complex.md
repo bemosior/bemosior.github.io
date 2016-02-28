@@ -5,7 +5,11 @@ date: 2016-02-19
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/N7oz366X0-8" frameborder="0" allowfullscreen></iframe>
 
-The Cynefin framework reveals that Complicated or Simple approaches break down and can only succeed *by complete accident* in Complex circumstances, because causality is only clear in retrospect. Let's briefly refute the notion of culture change as Simple or Complicated.
+If you are new to the Cynefin framework, I recommend watching the above before reading through this post.
+
+# Introduction
+
+The Cynefin framework (created by Dave Snowden) reveals that Complicated or Simple approaches break down and can only succeed *by complete accident* in the Complex domain, because causality is only clear in retrospect. From this basis, let's briefly refute the notion of culture change as Simple or Complicated.
 
 # Culture as Simple
 
@@ -16,19 +20,21 @@ The dominant management theory "best practice" for culture change is the manipul
 
 # Culture as Complicated
 
-The Complicated domain has cause-effect relationships, but they are not obvious. We can sense the situation, perform analysis or bring in experts, and respond with one or more good practices.
+The Complicated domain has cause-effect relationships, but they are not immediately obvious. We can sense the situation, perform analysis or bring in experts, and respond with one or more good practices.
 
-The standard procedure for companies aiming to change culture involves hiring expert consultants to analyze the current culture, define a desired future state, and provide "good practice" to drive towards it. We know from experience, however, that the disposition of the workforce or the company might prevent otherwise good tactics, even those that have succeeded at countless other companies, from working again. 
+The standard procedure for companies aiming to change culture holistically involves hiring expert consultants to analyze the current culture, define a desired future state, and provide "good practice" to drive towards it. We know from experience, however, that the disposition of the workforce or the company might prevent otherwise good tactics, even those that have succeeded at countless other companies, from working again. 
 
-Consider all the variables that might derail a given solution, including untimely personnel changes, lifechanging events for critical people, unrelated shifts in individual attitudes, and distracting business crises. These events are completely out of the control of any company or consultant. Complicated solutions are simply too generic for a particular company at a particular point in time. Culture is not Complicated.
+Consider all the variables that might derail a given solution, including untimely personnel changes, life-changing events for critical people, unrelated shifts in individual attitudes, and distracting business crises. These types of events are numerous and completely out of the control of any company or consultant. No ordered model can adequately accommodate every single possibility, therefore complicated solutions are simply too generic and ill-fitting for a particular company at a particular point in time. Culture is not Complicated.
 
-As an aside, the counter to systemic rejection of forced change seems to be centered on wearing down the will of the workforce, which is simply harmful. Worse, success might be declared after enough people have quit and been replaced.
+As an aside, the counter to systemic rejection of forced change seems to be centered on wearing down the will of the workforce so that it might be too weary to care, which is simply harmful. Worse still, success might be declared after enough people leave and their replacements assimilate into the changed culture.
 
 
-# Culture as Complex
+# Final words
 
-The Complex domain lacks causality, except in retrospect. We can probe the situation with safe-to-fail experiments, sense the effects, and respond with amplification or dampening strategies. Culture change lies in this domain.
+Culture change lacks causality, except in retrospect; it is Complex. We can probe the situation with safe-to-fail experiments, sense the effects, and respond with amplification or dampening strategies to safely contain failure and discover emergent practice. In short, we can quickly evolve from successful experiments and safely abandon those that fail. The granularity of this approach enables the development of solutions that truly fit the organization.
 
-> Culture arises from actions in the world, ways of doing things which may never be articulated, and which may not be capable of articulation.  In effect culture is always complex, never complicated.  So it follows that cultural change is an evolutionary process from the present, not an idealised future state design.
+> Culture arises from actions in the world, ways of doing things which may never be articulated, and which may not be capable of articulation.  In effect culture is always complex, never complicated.  So it follows that cultural change is an evolutionary process from the present, not an idealized future state design.
 
-<div class="citation">http://cognitive-edge.com/blog/omg-they-want-to-change-the-culture/</div>
+<div class="citation">- Dave Snowden (<a href="http://cognitive-edge.com/blog/omg-they-want-to-change-the-culture/">OMG, its culture change time</a>)</div>
+
+Upcoming challenges for me include proving why Cynefin is an appropriate framework for deciding how to approach culture change (intuition is not sufficient), as well as exploring data collection and experiment design in the Complex domain.
