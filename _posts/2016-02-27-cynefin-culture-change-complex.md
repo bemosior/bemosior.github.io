@@ -1,6 +1,6 @@
 ---
 title: Cynefin, Culture Change as Complex
-date: 2016-02-19
+date: 2016-02-27
 ---
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/N7oz366X0-8" frameborder="0" allowfullscreen></iframe>
