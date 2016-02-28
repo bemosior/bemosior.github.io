@@ -14,7 +14,7 @@ title: Benjamin Mosior
 
 ### McKesson Pharmacy Systems & Automation (Nov 2014 - Present)
 
-Maps core business processeses, visualizes the flow of work, automates lower-order activities in order to free individuals for higher-order activity, and eliminates wasteful work altogether. Fosters cross-functional collaboration in daily practice. Accelerated improvement of disaster recovery capabilities.
+Maps core business processeses, visualizes the flow of work, automates lower-order activities in order to free individuals for higher-order activity, and eliminates wasteful work altogether. Fosters cross-functional collaboration in daily practice. Accelerates improvement efforts, including those involving disaster recovery capabilities.
 
 ### Unica Labs (Jul 2014 - Present)
 
