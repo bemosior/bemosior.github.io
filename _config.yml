@@ -11,6 +11,7 @@ author_gravatar:    1f2fd0f45559e49f63145876ee37ae66 # Gravatar md5 hash
 twitter_username:   BenjaminMosior
 
 # Site Settings
+url:                "http://www.bmosior.com"
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
