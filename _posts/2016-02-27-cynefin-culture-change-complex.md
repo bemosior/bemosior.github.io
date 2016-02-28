@@ -37,4 +37,4 @@ Culture change lacks causality, except in retrospect; it is Complex. We can prob
 
 <div class="citation">- Dave Snowden (<a href="http://cognitive-edge.com/blog/omg-they-want-to-change-the-culture/">OMG, its culture change time</a>)</div>
 
-Upcoming challenges for me include proving why Cynefin is an appropriate framework for deciding how to approach culture change (intuition is not sufficient), as well as exploring data collection and experiment design in the Complex domain.
+Upcoming challenges for me include proving why Cynefin is an appropriate framework for deciding how to approach culture change (intuition is not sufficient, and this exploration has admittedly been out of order), as well as investigating data collection and experiment design in the Complex domain.
