@@ -15,14 +15,14 @@ The Cynefin framework (created by Dave Snowden) reveals that Complicated or Simp
 
 The Simple domain has obvious, predictable cause-effect relationships. We can sense the situation, pattern-match to categorize it, and respond with the best practice. 
 
-The dominant management theory "best practice" for culture change is the manipulation of incentives. [People are not endlessly manipulable or predictable](https://www.youtube.com/watch?v=u6XAPnuFjJc), however, and incentives are [not the only path to culture change](https://en.wikipedia.org/wiki/Transformation_of_culture), so the notion of "best practice" is incorrect. We also know from the vastness of fields of study, such as [Anthropology](https://en.wikipedia.org/wiki/Anthropology), that humanity and culture are not "obvious" concepts. Culture is not Simple.
+The dominant management theory "best practice" for culture change is the manipulation of incentives. [People are not endlessly manipulable or predictable](https://www.youtube.com/watch?v=u6XAPnuFjJc), however, and incentives are [not the only path to culture change](https://en.wikipedia.org/wiki/Transformation_of_culture), so the notion of "best practice" is incorrect. We also know from the vastness of fields of study such as [Anthropology](https://en.wikipedia.org/wiki/Anthropology), that humanity and culture are not "obvious" concepts. Culture is not Simple.
 
 
 # Culture as Complicated
 
 The Complicated domain has cause-effect relationships, but they are not immediately obvious. We can sense the situation, perform analysis or bring in experts, and respond with one or more good practices.
 
-The standard procedure for companies aiming to change culture holistically involves hiring expert consultants to analyze the current culture, define a desired future state, and provide "good practice" to drive towards it. We know from experience, however, that the disposition of the workforce or the company might prevent otherwise good tactics, even those that have succeeded at countless other companies, from working again. 
+The standard procedure for companies aiming to holistically change culture involves hiring expert consultants to analyze the current culture, define a desired future state, and provide "good practice" to drive towards it. We know from experience, however, that the disposition of the workforce or the company might prevent otherwise good tactics, even those that have succeeded at countless other companies, from working again. 
 
 Consider all the variables that might derail a given solution, including untimely personnel changes, life-changing events for critical people, unrelated shifts in individual attitudes, and distracting business crises. These types of events are numerous and completely out of the control of any company or consultant. No ordered model can adequately accommodate every single possibility, therefore complicated solutions are simply too generic and ill-fitting for a particular company at a particular point in time. Culture is not Complicated.
 
