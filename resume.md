@@ -18,7 +18,7 @@ Maps core business processeses, visualizes the flow of work, automates lower-ord
 
 ### Unica Labs (Jul 2014 - Present)
 
-Designs client product and infrastructure solutions to support core business models in various industries. Assists with market analysis and strategic mapping.
+Performs industry research, analysis, and mapping. Designs and implements product and infrastructure solutions for minimum viable product develoment or core business solutions.
 
 ### Shippensburg University of Pennsylvania (Jan 2010 - Sep 2014)
 
