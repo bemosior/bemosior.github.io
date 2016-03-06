@@ -15,7 +15,10 @@
   }
   ul,
   ol {
-    margin: 10px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
+  }
+  a {
+    border-bottom: 0px;
   }
   .logo {
     margin: 0px auto 0px;
@@ -25,6 +28,7 @@
   }
   article {
     p {
+      margin: 0;
       line-height: 1.5em;
     }
     .divider {
