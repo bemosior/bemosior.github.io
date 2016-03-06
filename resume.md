@@ -27,3 +27,9 @@ Established a highly-available federated single sign-on system for university ap
 ## Education
 
 B.S. Computer Science (Shippensburg University of Pennsylvania)
+
+## Projects
+
+* [Agrippa](https://github.com/unicalabs/agrippa)
+* [Burnout.io](https://github.com/reignite/burnout.io)
+* [PHPasswordPusher](https://github.com/bemosior/PHPasswordPusher)
