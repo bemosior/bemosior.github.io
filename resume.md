@@ -27,19 +27,3 @@ Established a highly-available federated single sign-on system for university ap
 ## Education
 
 B.S. Computer Science (Shippensburg University of Pennsylvania)
-
-## Professional Interests
-
-* Complexity Thinking
-* Culture and Values
-* Cynefin Framework
-* Kaizen
-* Systems Thinking
-* Theory of Constraints
-* Value Stream Mapping
-
-## Projects
-
-* [Agrippa](https://github.com/unicalabs/agrippa)
-* [Burnout.io](https://github.com/reignite/burnout.io)
-* [PHPasswordPusher](https://github.com/bemosior/PHPasswordPusher)
