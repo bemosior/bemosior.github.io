@@ -15,7 +15,7 @@ The Cynefin framework (created by Dave Snowden) reveals that Complicated or Simp
 
 The Simple domain has obvious, predictable cause-effect relationships. We can sense the situation, pattern-match to categorize it, and respond with the best practice. 
 
-The dominant management theory "best practice" for culture change is the manipulation of incentives. [People are not endlessly manipulable or predictable](https://www.youtube.com/watch?v=u6XAPnuFjJc), however, and incentives are [not the only path to culture change](https://en.wikipedia.org/wiki/Transformation_of_culture), so the notion of "best practice" is incorrect. We also know from the vastness of fields of study such as [Anthropology](https://en.wikipedia.org/wiki/Anthropology), that humanity and culture are not "obvious" concepts. Culture is not Simple.
+The dominant management theory "best practice" for culture change is the manipulation of incentives. [People are not endlessly manipulable or predictable](https://www.youtube.com/watch?v=u6XAPnuFjJc), however, and incentives are [not the only path to culture change](https://en.wikipedia.org/wiki/Transformation_of_culture), so the notion of "best practice" is incorrect. We also know from the vastness of fields of study such as [Anthropology](https://en.wikipedia.org/wiki/Anthropology) that humanity and culture are not "obvious" concepts. Culture is not Simple.
 
 
 # Culture as Complicated
