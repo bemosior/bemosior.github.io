@@ -7,7 +7,7 @@ title: Benjamin Mosior
 
 * Wields thinking and focusing mechanisms for effective problem-solving.
 * Promotes understanding over instruction.
-* Combats organizational scapegoating, substitutes empathic personal experiences.
+* Combats organizational scapegoating and substitutes empathic personal experiences.
 * Challenges status quo thinking with continuous learning.
 
 ## Experience
