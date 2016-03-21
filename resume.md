@@ -14,11 +14,15 @@ title: Benjamin Mosior
 
 ### McKesson Pharmacy Systems & Automation (Nov 2014 - Present)
 
-Maps core business processeses, visualizes the flow of work, automates lower-order activities in order to free individuals for higher-order activity, and eliminates wasteful work altogether. Fosters cross-functional collaboration in daily practice. Accelerates improvement efforts, including those involving disaster recovery capabilities.
+Maps business processes, visualizes the flow of work, automates lower-order activities to free individuals for higher-order activity, and pursues elimination of wasteful work altogether. Fosters cross-functional collaboration in daily practice. Accelerates improvement efforts, including disaster recovery capabilities. Provides insight to help others escape from or avoid destructive patterns.
 
-### Unica Labs (Jul 2014 - Present)
+### Unica Labs (Nov 2014 - Present)
 
 Performs industry research, analysis, and mapping. Designs and implements product and infrastructure solutions for minimum viable product develoment or core business solutions.
+
+### Independent Contractor (Jul 2014 - Nov 2014)
+
+Built and maintained custom software business solutions according to client needs. Augmented and systematically replaced legacy systems. Implemented scaling, monitoring, and analysis mechanisms for client benefit.
 
 ### Shippensburg University of Pennsylvania (Jan 2010 - Sep 2014)
 
