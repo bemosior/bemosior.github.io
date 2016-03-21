@@ -20,7 +20,7 @@ Maps business processes, visualizes the flow of work, automates lower-order acti
 
 Performs industry research, analysis, and mapping. Designs and implements product and infrastructure solutions for minimum viable product develoment or core business solutions.
 
-### Independent Contractor (Jul 2014 - Nov 2014)
+### Independent Contractor (Jul 2014 - Jan 2015)
 
 Built and maintained custom software business solutions according to client needs. Augmented and systematically replaced legacy systems. Implemented scaling, monitoring, and analysis mechanisms for client benefit.
 
