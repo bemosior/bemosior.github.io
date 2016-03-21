@@ -21,6 +21,6 @@ The bottom line is likely in the Complex domain, because the relationship betwee
 
 # Descent into the Chaotic
 
-Cost-cutting measures applied as a Simple/Obvious solution in a non-Simple/Obvious space will cause the company to temporarily enter the Chaotic domain. Company leaders will act authoritatively to recover to a more comfortable ontological domain, but costs in terms of effectiveness, morale, and so on will be high. The bottom line may be negatively affected over the long term by reduced organizational capacity, driving the company into a spiral of further cost reduction measures unless otherwise prevented.
+Cost-cutting measures applied as a Simple/Obvious solution in a non-Simple/Obvious space will cause the company to temporarily enter the Chaotic domain. Company leadership will have to will act authoritatively to recover to a more comfortable ontological domain, but costs in terms of effectiveness, morale, and so on will be high. The bottom line may be negatively affected over the long term by reduced organizational capacity, driving the company into a spiral of further cost reduction measures unless otherwise prevented.
 
 Prevention is rooted in understanding. Approaching the problem as it is, a member of the Complex domain, might enable a more favorable outcome.
