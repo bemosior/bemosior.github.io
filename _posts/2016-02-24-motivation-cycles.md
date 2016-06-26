@@ -1,5 +1,6 @@
 ---
 title: Motivation Cycles
+image: 2016-02-24-motivation-cycles-01.jpg
 date: 2016-02-24
 updated: 2016-06-26
 ---
