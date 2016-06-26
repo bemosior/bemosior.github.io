@@ -1,6 +1,7 @@
 ---
 title: Visual WIP
-updated: 2016-02-21
+date: 2016-02-21
+updated: 2016-06-26
 ---
 
 I have been searching for a temporary work visualization method to adequately convey both how a given process works and the WIP (Work In Progress) within it at any given moment. With eventual improvement set as a goal for the former, a prerequisite for any productive discussion is a common understanding from which to work. For the latter, understanding WIP prevents us from making a bad process worse and allows us to free up capacity to improve.
