@@ -30,7 +30,7 @@ Assuming the *something* is positive, I'd want to exploit such a model to maximi
 
 <div class="pagebreak"></div>
 
-The problem is that these cycles can vary in severity, length, and frequency, but no cause will be immediately apparent. In other words, motivation is complex.
+The problem is that these cycles can vary in severity, length, and frequency, but no cause will be immediately apparent, except in retrospect. In other words, motivation is complex.
 
 ![Cycles](/assets/posts/2016-02-24-motivation-cycles-02.jpg)
 
@@ -44,4 +44,8 @@ Recognition of the cyclical nature of motivation enables certain awarenesses. Fo
 
 All I know is that I do not want to be there, so I thought I might try something to disrupt the cycle when it's not in my favor. What is the effect on the motivation cycle if I take a break from work for a period of time (e.g., take a vacation day) whenever there's a trend towards "unmotivated," for example? If the effect is positive, then it can be amplified by more deliberately planning for such opportunities in the future. If the effect is negative, it can be dampened by doubling down on involvement in order to restabilize the situation or by pursuing other activities within the context already known to be motivating.
 
-I ran a few tests, and sometimes found myself recovering by the following day ("hopeful"). Other times, it was a less effective treatment, but it might have kept the dive a shallow one. I can't know for certain. The experience leads me to think that disrupting the cycle has value, but if I find myself stuck in one place for too long then I might be better off considering alternatives. Some pursuits surely have longer cycle times skewed in favor of motivation; I've experienced them before. Their discovery is not deterministic, though, so here I am. More on that in the future.
+I ran a few tests, and sometimes found myself recovering by the following day ("hopeful"). Other times, it was a less effective treatment, but it might have kept the dive a shallow one. I can't know for certain. The experience leads me to believe that disrupting the cycle has value, but a more fundamental change might be necessary.
+
+![Cycles](/assets/posts/2016-02-24-motivation-cycles-04.jpg)
+
+Other pursuits may have longer cycle times skewed in favor of motivation; I've experienced them before. Their discovery is not deterministic and viability not guaranteed, though, so here I am. More on that in the future.
