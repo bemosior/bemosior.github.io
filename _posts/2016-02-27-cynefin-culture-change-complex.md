@@ -5,13 +5,13 @@ date: 2016-02-27
 updated: 2016-06-25
 ---
 
-<iframe width="560" height="515" src="https://www.youtube.com/embed/N7oz366X0-8" frameborder="0" allowfullscreen></iframe>
-
-If you are new to the Cynefin framework, I recommend watching the above before reading through this post.
-
 # Introduction
 
 The Cynefin framework (created by Dave Snowden) reveals that Complicated or Simple approaches break down and can only succeed *by complete accident* in the Complex domain, because causality is only clear in retrospect. From this basis, let's briefly refute the notion of culture change as Simple or Complicated.
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/N7oz366X0-8" frameborder="0" allowfullscreen></iframe>
+
+If you are new to the Cynefin framework, I recommend watching the above before reading through the rest of this post.
 
 # Culture as Simple
 
