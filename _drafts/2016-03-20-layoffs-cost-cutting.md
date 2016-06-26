@@ -1,5 +1,6 @@
 ---
 title: Cynefin on cost-cutting
+image: 2016-03-20-cynefin.png
 date: 2016-03-20
 ---
 
