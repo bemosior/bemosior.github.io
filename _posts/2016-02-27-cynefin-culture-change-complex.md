@@ -1,6 +1,7 @@
 ---
 title: Cynefin, Culture Change as Complex
 date: 2016-02-27
+updated: 2016-06-25
 ---
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/N7oz366X0-8" frameborder="0" allowfullscreen></iframe>
@@ -37,4 +38,6 @@ Culture change lacks causality, except in retrospect; it is Complex. We can prob
 
 <div class="citation">- Dave Snowden (<a href="http://cognitive-edge.com/blog/omg-they-want-to-change-the-culture/">OMG, its culture change time</a>)</div>
 
-Upcoming challenges for me include proving why Cynefin is an appropriate framework for deciding how to approach culture change (intuition is not sufficient, and this exploration has admittedly been out of order), as well as investigating data collection and experiment design in the Complex domain.
+<del>Upcoming challenges for me include proving why Cynefin is an appropriate framework for deciding how to approach culture change (intuition is not sufficient, and this exploration has admittedly been out of order), as well as investigating data collection and experiment design in the Complex domain.</del>
+
+Update 2016-06-25: Cynefin is one of many sense-making frameworks. It makes little sense to use just one or attempt to prove that one is better than the other. If more sense is made through the use of a framework, then it fulfills its purpose; keep using it. More importantly, use others as well to increase the diversity of the potential sense that is made.
