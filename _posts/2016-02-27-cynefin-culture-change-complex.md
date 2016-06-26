@@ -1,5 +1,6 @@
 ---
 title: Cynefin, Culture Change as Complex
+image: 2016-03-20-cynefin.png
 date: 2016-02-27
 updated: 2016-06-25
 ---

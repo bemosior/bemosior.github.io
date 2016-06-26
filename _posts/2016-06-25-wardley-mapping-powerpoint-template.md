@@ -1,5 +1,6 @@
 ---
 title: Wardley Mapping, A PowerPoint Template
+image: 2016-06-25-wardley-map-template.png
 date: 2016-06-25
 ---
 

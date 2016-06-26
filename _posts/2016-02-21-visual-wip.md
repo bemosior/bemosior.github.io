@@ -1,5 +1,6 @@
 ---
 title: Visual WIP
+image: 2016-02-21-visual-wip-00.jpg
 date: 2016-02-21
 updated: 2016-06-26
 ---
