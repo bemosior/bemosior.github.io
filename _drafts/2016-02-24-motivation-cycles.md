@@ -5,9 +5,9 @@ updated: 2016-06-26
 ---
 
 
->You could find the Abstract listening to hip hop
-My pops used to say, it reminded him of Bebop
-I said, well daddy don't you know that things go in cycles
+>You could find the Abstract listening to hip hop<br/>
+My pops used to say, it reminded him of Bebop<br/>
+I said, well daddy don't you know that things go in cycles<br/>
 Way that Bobby Brown is just amping like Michael
 
 <div class="citation"><a href="https://en.wikipedia.org/wiki/The_Low_End_Theory">Excursions - A Tribe Called Quest</a></div>
