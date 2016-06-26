@@ -10,11 +10,11 @@
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-<meta name="twitter:image" content="{% if page.image %}{{ site.baseurl }}/assets/posts/{{ page.image }}{% else %}http://www.gravatar.com/avatar/1f2fd0f45559e49f63145876ee37ae66.png?s=80{% endif %}" />
+<meta name="twitter:image" content="{% if page.image %}{{ site.url }}/assets/posts/{{ page.image }}{% else %}http://www.gravatar.com/avatar/1f2fd0f45559e49f63145876ee37ae66.png?s=80{% endif %}" />
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 
-<meta content="{% if page.image %}{{ site.baseurl }}/assets/posts/{{ page.image }}{% else %}http://www.gravatar.com/avatar/1f2fd0f45559e49f63145876ee37ae66.png?s=80{% endif %}" property="og:image" />
+<meta content="{% if page.image %}{{ site.url }}/assets/posts/{{ page.image }}{% else %}http://www.gravatar.com/avatar/1f2fd0f45559e49f63145876ee37ae66.png?s=80{% endif %}" property="og:image" />
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 {% if site.google_verify %}
