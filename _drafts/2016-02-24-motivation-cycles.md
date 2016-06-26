@@ -16,7 +16,7 @@ I work in a challenging environment where the effects of improvement efforts are
 
 One way or another, the circumstance has led me to notice that motivation waxes and wanes in a somewhat cyclical pattern.
 
-![Cycles](/assets/posts/images/2016-02-24-motivation-cycles-00.jpg)
+![Cycles](/assets/posts/2016-02-24-motivation-cycles-00.jpg)
 
 Objectively, a motivation model being cyclical is not problematic, as long as some degree of positive learning or other progress can be observed along the way. I'm not yet sure if "learning" is the right way to describe it, though, or if there should even be a linear measure of it in the first place. It seems that a cycle can enable a new level of *something*, be it fundamental understanding, existence, or maybe happiness.
 
@@ -24,13 +24,13 @@ Objectively, a motivation model being cyclical is not problematic, as long as so
 
 Assuming the *something* is positive, we want to exploit such a model to maximize the movement in a positive direction (i.e., towards periods of high motivation) while minimizing the opposite.
 
-![Cycles](/assets/posts/images/2016-02-24-motivation-cycles-01.jpg)
+![Cycles](/assets/posts/2016-02-24-motivation-cycles-01.jpg)
 
 <div class="pagebreak"></div>
 
 The problem is that these cycles can vary in severity, length, and frequency, but no cause will be immediately apparent. In other words, motivation is complex.
 
-![Cycles](/assets/posts/images/2016-02-24-motivation-cycles-02.jpg)
+![Cycles](/assets/posts/2016-02-24-motivation-cycles-02.jpg)
 
 Complexity isn't a reason to give up. Rather, [operating within a complex space necessitates deliberate experimentation](https://en.wikipedia.org/wiki/Cynefin_Framework). The key is to amplify the effects of good experiment results and dampen those of poor ones.
 
@@ -38,7 +38,7 @@ Complexity isn't a reason to give up. Rather, [operating within a complex space 
 
 Recognition of the cyclical nature of motivation enables certain awarenesses. For example, what does a series of motivation cycles without positive movement in learning or improvement or that *something* indicate?
 
-![Cycles](/assets/posts/images/2016-02-24-motivation-cycles-03.jpg)
+![Cycles](/assets/posts/2016-02-24-motivation-cycles-03.jpg)
 
 All I know is that I do not want to be there, so an experiment is in order.
 

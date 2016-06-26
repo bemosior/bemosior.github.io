@@ -7,7 +7,7 @@ I have been searching for a work visualization method to adequately convey both 
 
 Kanban seemed like something to try, but I realized I was considering only the information Kanban provides and not the functional purpose it fulfills.
 
-![Kanban](/assets/posts/images/2016-02-21-visual-wip-01.jpg)
+![Kanban](/assets/posts/2016-02-21-visual-wip-01.jpg)
 
 More specifically, an organizational addiction to *pushing* work through the system (as opposed to *pulling*, as the Kanban system needs) means our work "inventory" builds up between steps.
 
@@ -15,4 +15,4 @@ Kanban also would not be appropriate, as representation of a nonlinear flow in t
 
 I considered a value stream map next, but the detail of a fully-formed VSM would only serve as a barrier to participation and is not meant to represent WIP. Perhaps a simplified form would suffice.
 
-![Simplified Stateful Value Stream Map](/assets/posts/images/2016-02-21-visual-wip-00.jpg)
+![Simplified Stateful Value Stream Map](/assets/posts/2016-02-21-visual-wip-00.jpg)
