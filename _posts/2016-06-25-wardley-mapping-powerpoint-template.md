@@ -1,6 +1,6 @@
 ---
 title: Wardley Mapping, A PowerPoint Template
-updated: 2016-06-25
+date: 2016-06-25
 ---
 
 One particularly coherent approach to "strategy" involves using a map to pursue increased situational awareness from which to execute various forms of gameplay. This technique is known as Wardley Mapping, and I highly recommend reading through [An Introduction to Wardley (Value Chain) Mapping](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) and watching Simon Wardley's 2014 OSCON keynote.
