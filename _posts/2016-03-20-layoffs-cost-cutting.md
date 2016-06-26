@@ -11,6 +11,7 @@ Suppose a company discovers that its projected revenue is below original expecta
 The [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework) describes a cliff between the borders of the Simple/Obvious and Chaotic domains, over which it is easy to fall and from which recovery is difficult. In short, treatment of any non-Simple/Obvious situation as if it is Simple/Obvious will result in this fall. To wield cost-cutting as a best-practice (a Simple/Obvious approach) for a bottom-line problem (a Complex issue), therefore, is to confuse Complex for Simple/Obvious and to cause a fall into the Chaotic.
 
 From the [wikipedia article](https://en.wikipedia.org/wiki/Cynefin_Framework):
+
 ![Cynefin](/assets/posts/2016-03-20-cynefin.png)
 
 # Bottom line as Complex
