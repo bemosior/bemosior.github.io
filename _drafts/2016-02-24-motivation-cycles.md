@@ -1,5 +1,7 @@
 ---
 title: Motivation Cycles
+date: 2016-02-24
+updated: 2016-06-26
 ---
 
 
@@ -22,7 +24,7 @@ Objectively, a motivation model being cyclical is not problematic, as long as so
 
 <div class="pagebreak"></div>
 
-Assuming the *something* is positive, we want to exploit such a model to maximize the movement in a positive direction (i.e., towards periods of high motivation) while minimizing the opposite.
+Assuming the *something* is positive, I'd want to exploit such a model to maximize the movement in a positive direction (i.e., towards periods of high motivation) while minimizing the opposite.
 
 ![Cycles](/assets/posts/2016-02-24-motivation-cycles-01.jpg)
 
@@ -40,10 +42,6 @@ Recognition of the cyclical nature of motivation enables certain awarenesses. Fo
 
 ![Cycles](/assets/posts/2016-02-24-motivation-cycles-03.jpg)
 
-All I know is that I do not want to be there, so an experiment is in order.
+All I know is that I do not want to be there, so I thought I might try something to disrupt the cycle when it's not in my favor. What is the effect on the motivation cycle if I take a break for a period of time whenever there's a trend towards "unmotivated," for example? If the effect is positive, then it can be amplified by more deliberately planning for such opportunities in the future. If the effect is negative, it can be dampened by doubling down on involvement in order to restabilize the situation or by pursuing other activities within the context already known to be motivating.
 
-What is the effect on the motivation cycle of a day's vacation, timed with a trend towards "unmotivated"? If the effect is positive, then it can be amplified through more deliberate future use of vacation time or restructuring of work hours (if the flexibility is there). If the effect is negative, it can be dampened by pursuing other activities already known to be motivating.
-
-I ran such an experiment, and found myself recovering by the following day ("hopeful"). As a result, I plan to allocate half my accrued vacation time for this purpose in order to amplify the effect over time.
-
-The joy is that there are endless experiments to be run. What about increasing focus on my reading list when motivation wanes? Or hitting the gym? Experimenting in this space seems like common sense, now that I've had the chance to explore the idea. But that's the point; this is knowledge that can only be gained in retrospect.
+I ran such a few such tests, and sometimes found myself recovering by the following day ("hopeful"). Other times, it was a less effective treatment, but it might have kept the dive a shallow one. I can't know for certain. The experience leads me to think that disrupting the cycle has value, but if I find myself stuck in one place for too long then I might be better off considering alternative pursuits with longer cycle times skewed in favor of motivation. Discovery is not deterministic, though, so here I am. More on that in the future.
