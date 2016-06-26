@@ -1,5 +1,5 @@
 ---
-title: Cynefin on cost-cutting
+title: Cutting Costs. Or, How to Pretend Complex is Simple.
 image: 2016-03-20-cynefin.png
 date: 2016-03-20
 ---
