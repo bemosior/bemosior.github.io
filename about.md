@@ -7,9 +7,7 @@ As a generalist with a diverse technical background, I focus my energy on workin
 
 I provide consulting services through [Unica Labs](http://unicalabs.com).
 
-# Contact
-bemosior+com@gmail.com
-717-831-8492
+*Contact*: bemosior+com@gmail.com or 717-831-8492
 
 
 
