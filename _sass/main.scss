@@ -314,6 +314,16 @@ article {
     }
   }
 }
+.other {
+  text-align: center;
+  a {
+    text-decoration: none;
+    margin: 40px auto 0;
+    display: inline-block;
+    padding: 10px;
+    border: 0;
+  }
+}
 section {
   max-width: 500px;
   margin: 0 auto;
