@@ -1,6 +1,6 @@
 ---
 title: On Diversity
-image: 
+image: 2016-11-14-on-diversity-03.png
 date: 2016-11-14
 ---
 
