@@ -2,21 +2,5 @@
 layout: default
 ---
 
-<section>
-	<ul>
 
-		{% for post in site.posts %}
-
-		<li>
-			<div class="post-date">
-				<span>{{ post.date | date: "%b %d, %Y" }}</span>
-			</div>
-			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</div>
-		</li>
-
-		{% endfor %}
-
-	</ul>
-</section>
+<iframe src="https://api.medium.com/embed?type=profile&amp;path=%2F%40benmo&amp;id=0&amp;collapsed=null" allowtransparency="true" frameborder="0" title="Embedded profile" width="400" height="772" style="display: block;max-width: 100%;min-width: 220px;padding: 0;position: static;visibility: visible;border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-color: #eee #ddd #bbb;border-width: 1px;border-style: solid;box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 3px;"></iframe>
