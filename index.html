@@ -2,5 +2,17 @@
 layout: default
 ---
 
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<iframe src="https://api.medium.com/embed?type=profile&amp;path=%2F%40benmo&amp;id=0&amp;collapsed=null" allowtransparency="true" frameborder="0" title="Embedded profile" width="400" height="772" style="display: block;max-width: 100%;min-width: 220px;padding: 0;position: static;visibility: visible;border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-color: #eee #ddd #bbb;border-width: 1px;border-style: solid;box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 3px;"></iframe>
+      <h2><a target="_blank" href="{{ post.external_url }}">{{ post.title }}</a></h2>
+
+      <div class="entry">
+        <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
+        <i>{{ post.excerpt }}</i>
+      </div>
+
+    </article>
+  {% endfor %}
+</div>
