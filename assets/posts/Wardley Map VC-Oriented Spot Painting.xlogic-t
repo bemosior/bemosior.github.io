@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flyingLogic majorVersion="3" minorVersion="0" uuid="26d22e5b-7ed7-4d93-91fa-661dbfbbf061">
+    <domains>
+        <domain>
+            <attributes>
+                <attribute class="java.lang.String" key="name">Wardley Mapping</attribute>
+                <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                <attribute class="java.lang.Boolean" key="hidden">false</attribute>
+            </attributes>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">c7a61f91-bf3e-4f39-992b-b8ca74a7a3b7</attribute>
+                    <attribute class="java.lang.String" key="name">User</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.800000011920929" green="0.800000011920929" red="0.800000011920929"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">d97e2b33-4935-4895-a36d-06e5d75406ce</attribute>
+                    <attribute class="java.lang.String" key="name">Activity</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9490196108818054" green="0.9490196108818054" red="0.9490196108818054"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">cf55a36b-765e-43ec-8e44-90aeb24fa10a</attribute>
+                    <attribute class="java.lang.String" key="name">Practice</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9490196108818054" green="0.9490196108818054" red="0.9490196108818054"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">e3518b1a-e15a-47f8-a0b8-522a4395791e</attribute>
+                    <attribute class="java.lang.String" key="name">Data</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9490196108818054" green="0.9490196108818054" red="0.9490196108818054"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">dbd234d4-b7af-4ac2-8232-6d9ea456af57</attribute>
+                    <attribute class="java.lang.String" key="name">Knowledge</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9490196108818054" green="0.9490196108818054" red="0.9490196108818054"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">d757dd4a-3b11-4d5d-a1a4-d6fab2c4f12a</attribute>
+                    <attribute class="java.lang.String" key="name">Activity - Genesis</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6823529601097107" green="0.6745098233222961" red="0.8549019694328308"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">d81caaba-f555-4881-879f-833b8a6b4e84</attribute>
+                    <attribute class="java.lang.String" key="name">Practice - Novel</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6823529601097107" green="0.6745098233222961" red="0.8549019694328308"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">f2651b5c-157c-4ca6-a19c-53dc12d07e3a</attribute>
+                    <attribute class="java.lang.String" key="name">Data - Unmodelled</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6823529601097107" green="0.6745098233222961" red="0.8549019694328308"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">e9757707-7e4a-421e-a372-1d9d84b9af7b</attribute>
+                    <attribute class="java.lang.String" key="name">Knowledge - Concept</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6823529601097107" green="0.6745098233222961" red="0.8549019694328308"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">35892f7e-8288-4ced-ae09-2b0e23fe7765</attribute>
+                    <attribute class="java.lang.String" key="name">Activity - Custom</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6392157077789307" green="0.8823529481887817" red="0.9176470637321472"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">16fa5bb6-da6f-44d6-a387-649d5ced6893</attribute>
+                    <attribute class="java.lang.String" key="name">Practice - Emerging</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6392157077789307" green="0.8823529481887817" red="0.9176470637321472"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">9905f1dd-d6fb-467a-8970-b5804a9caa8a</attribute>
+                    <attribute class="java.lang.String" key="name">Data - Divergent</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6392157077789307" green="0.8823529481887817" red="0.9176470637321472"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">7f9682ff-5e23-42fa-abc5-f06925a933da</attribute>
+                    <attribute class="java.lang.String" key="name">Knowledge - Hypothesis</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.6392157077789307" green="0.8823529481887817" red="0.9176470637321472"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">eb077fa2-2c06-417c-9c85-ba0ebf8e7594</attribute>
+                    <attribute class="java.lang.String" key="name">Activity - Product</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.658823549747467" green="0.8784313797950745" red="0.7215686440467834"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">bd48b674-039a-41c9-b28c-b45d61f472f8</attribute>
+                    <attribute class="java.lang.String" key="name">Practice - Good</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.658823549747467" green="0.8784313797950745" red="0.7215686440467834"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">be5a166b-1f33-4c93-aa53-263a25463d32</attribute>
+                    <attribute class="java.lang.String" key="name">Data - Convergent</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.658823549747467" green="0.8784313797950745" red="0.7215686440467834"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">eddfb9a9-eec6-4f4f-928e-cc0b4c347880</attribute>
+                    <attribute class="java.lang.String" key="name">Knowledge - Theory</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.658823549747467" green="0.8784313797950745" red="0.7215686440467834"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">e6dd3357-7e71-4638-a5ac-64ccfe84f08f</attribute>
+                    <attribute class="java.lang.String" key="name">Activity - Commodity</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9215686321258545" green="0.8156862854957581" red="0.6431372761726379"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">e4cc9927-218d-4d27-ad6f-1ae4840c8944</attribute>
+                    <attribute class="java.lang.String" key="name">Practice - Best</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9215686321258545" green="0.8156862854957581" red="0.6431372761726379"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">e56bc4cb-0ac1-4881-a021-ed3e7e900ea8</attribute>
+                    <attribute class="java.lang.String" key="name">Data - Modelled</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9215686321258545" green="0.8156862854957581" red="0.6431372761726379"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+            <entityClass>
+                <attributes>
+                    <attribute class="java.util.UUID" key="uuid">1ee3fb03-a56c-4899-b5a7-fe4ad509e49b</attribute>
+                    <attribute class="java.lang.String" key="name">Knowledge - Accepted</attribute>
+                    <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                        <colorRGB blue="0.9215686321258545" green="0.8156862854957581" red="0.6431372761726379"/>
+                    </attribute>
+                    <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+                    <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                    <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+                </attributes>
+            </entityClass>
+        </domain>
+    </domains>
+    <displaySettings addEntityAsSuccessor="false" annotationToBrowse="false" bias="Bias.end" confidenceVisible="false" edgeNotesVisible="false" edgeWeightsVisible="false" entityIdVisible="false"
+        noteNumbersVisible="false" orientation="Orientation.bottomToTop" projectManagementVisible="false"/>
+    <documentInfo author="" comments="" keywords="" title=""/>
+    <canvasSettings horizScroll="0.0" vertScroll="0.0" zoom="0.834"/>
+    <inspectorSettings visibility="true" width="284">
+        <inspector title="operators" visibility="open"/>
+        <inspector height="467" title="domain" visibility="open"/>
+        <inspector title="document" visibility="minimized"/>
+        <inspector title="layout" visibility="open"/>
+        <inspector height="150" title="userattrs" visibility="minimized"/>
+        <inspector height="180" title="text" visibility="open"/>
+        <inspector title="element" visibility="minimized"/>
+        <inspector title="navigation" visibility="minimized"/>
+    </inspectorSettings>
+    <printSettings footerLeft="" footerMiddle="" footerRight="" headerLeft="" headerMiddle="" headerRight="" paperMargins="54.0 54.0 54.0 54.0" paperName="Letter" paperOrientation="portrait"
+        paperSize="612.0 792.0 in" saveInk="false" showselhalo="true"/>
+    <decisionGraph>
+        <entityOperator class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator">
+            <fuzzyOr/>
+        </entityOperator>
+        <defaultJunctorOperator class="com.flyinglogic.logicgraph.operator.FuzzyAndVertexOperator">
+            <fuzzyAnd/>
+        </defaultJunctorOperator>
+        <logicGraph>
+            <operatorFamily class="com.flyinglogic.decisiongraph.DecisionGraphOperatorFamily"/>
+            <graph majorVersion="1" minorVersion="0" supportsGroups="true">
+                <vertices>
+                    <vertex eid="153" inEdgeOrder="160 163">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">A</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="User" uuid="c7a61f91-bf3e-4f39-992b-b8ca74a7a3b7"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">45</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="154">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">B</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="Activity" uuid="d97e2b33-4935-4895-a36d-06e5d75406ce"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">46</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="155">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">D</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">47</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="Activity - Product" uuid="eb077fa2-2c06-417c-9c85-ba0ebf8e7594"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="156">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">F</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">48</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="Activity" uuid="d97e2b33-4935-4895-a36d-06e5d75406ce"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="157" grouped="154 158">
+                        <attributes>
+                            <attribute class="java.lang.String" key="title">User Needs</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="158">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">C</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">49</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="Activity" uuid="d97e2b33-4935-4895-a36d-06e5d75406ce"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                        </attributes>
+                    </vertex>
+                    <vertex eid="159">
+                        <attributes>
+                            <attribute class="java.lang.String" key="type">entity</attribute>
+                            <attribute class="java.lang.String" key="title">E</attribute>
+                            <attribute class="java.lang.Integer" key="typeid">50</attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.FuzzyOrVertexOperator" key="forwardOperator">
+                                <fuzzyOr/>
+                            </attribute>
+                            <attribute class="com.flyinglogic.logicgraph.entityclass.EntityClass" key="entityClass">
+                                <entityClass name="Activity - Commodity" uuid="e6dd3357-7e71-4638-a5ac-64ccfe84f08f"/>
+                            </attribute>
+                            <attribute class="java.lang.Double" key="effort">86400.0</attribute>
+                        </attributes>
+                    </vertex>
+                </vertices>
+                <edges>
+                    <edge eid="160" source="154" target="153">
+                        <attributes>
+                            <attribute class="java.lang.Double" key="weight">1.0</attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.MultiplyEdgeOperator" key="forwardOperator">
+                                <multiply/>
+                            </attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                        </attributes>
+                    </edge>
+                    <edge eid="161" source="159" target="155">
+                        <attributes>
+                            <attribute class="java.lang.Double" key="weight">1.0</attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.MultiplyEdgeOperator" key="forwardOperator">
+                                <multiply/>
+                            </attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                        </attributes>
+                    </edge>
+                    <edge eid="162" source="155" target="154">
+                        <attributes>
+                            <attribute class="java.lang.Double" key="weight">1.0</attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.MultiplyEdgeOperator" key="forwardOperator">
+                                <multiply/>
+                            </attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                        </attributes>
+                    </edge>
+                    <edge eid="163" source="158" target="153">
+                        <attributes>
+                            <attribute class="java.lang.Double" key="weight">1.0</attribute>
+                            <attribute class="com.flyinglogic.logicgraph.operator.MultiplyEdgeOperator" key="forwardOperator">
+                                <multiply/>
+                            </attribute>
+                            <attribute class="com.arciem.FuzzyBoolean" key="confidence">
+                                <fuzzyBoolean true="0.5"/>
+                            </attribute>
+                        </attributes>
+                    </edge>
+                </edges>
+            </graph>
+        </logicGraph>
+    </decisionGraph>
+</flyingLogic>
